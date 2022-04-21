@@ -1,0 +1,9 @@
+--------------------- ORDER NUMBER 2 ---------------------
+Date: 2021-05-25T09:32:55.995653300
+Client: testc
+Total: 179.0
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: """Bloody Mary"" Tomato Toast with Celery and Horseradish "
+Product Name: """Brown on Blonde"" Blondies "
+Product Name: """California Roll"" Salad "

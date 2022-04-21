@@ -1,0 +1,14 @@
+######################### CANCELED ########################
+--------------------- ORDER NUMBER 16 ---------------------
+
+Client Name: George Anton
+Client Phone Number: 4913507854
+Client Email Address: geoAn@email.com
+
+Shipping Address: Romania
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: Product 4
+                  12 x 1.0 = 12.0
+
+      TOTAL: 12.0

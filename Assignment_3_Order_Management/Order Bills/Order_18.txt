@@ -1,0 +1,16 @@
+--------------------- ORDER NUMBER 18 ---------------------
+
+Client Name: Ana Sara
+Client Phone Number: 1539746325
+Client Email Address: ana.sarra@email.com
+
+Shipping Address: Zalau
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: Product 7
+                  4 x 15.5 = 62.0
+
+Product Name: Product 4
+                  10 x 1.0 = 10.0
+
+      TOTAL: 72.0

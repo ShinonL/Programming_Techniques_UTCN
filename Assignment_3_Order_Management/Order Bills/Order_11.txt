@@ -1,0 +1,14 @@
+######################### CANCELED ########################
+--------------------- ORDER NUMBER 11 ---------------------
+
+Client Name: Andreea Popescu
+Client Phone Number: 1230456789
+Client Email Address: andreea@gmail.com
+
+Shipping Address: Iasi
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: Product 1
+                  5 x 15.0 = 75.0
+
+      TOTAL: 75.0

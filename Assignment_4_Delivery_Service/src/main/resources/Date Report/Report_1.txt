@@ -1,0 +1,7 @@
+Products ordered on 25.5.2021
+Product: """California Roll"" Salad "
+Number of occurences: 1
+---------------------------------------------------------
+Product: """Brown on Blonde"" Blondies "
+Number of occurences: 1
+---------------------------------------------------------

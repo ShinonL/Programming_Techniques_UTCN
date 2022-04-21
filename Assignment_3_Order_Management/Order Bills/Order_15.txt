@@ -1,0 +1,14 @@
+######################### CANCELED ########################
+--------------------- ORDER NUMBER 15 ---------------------
+
+Client Name: Andreea Maria Popescu
+Client Phone Number: 1230456786
+Client Email Address: andreea@gmail.com
+
+Shipping Address: Str. Caracal, Nr. 79, Craiova
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: Product 1
+                  5 x 15.0 = 75.0
+
+      TOTAL: 75.0

@@ -1,0 +1,13 @@
+--------------------- ORDER NUMBER 19 ---------------------
+
+Client Name: Ana Sara
+Client Phone Number: 1539746325
+Client Email Address: ana.sarra@email.com
+
+Shipping Address: Iasi
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: Product 4
+                  14 x 1.0 = 14.0
+
+      TOTAL: 14.0

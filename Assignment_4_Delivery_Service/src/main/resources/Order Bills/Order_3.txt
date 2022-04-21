@@ -1,0 +1,9 @@
+--------------------- ORDER NUMBER 3 ---------------------
+Date: 2021-05-25T09:32:59.632573900
+Client: testc
+Total: 116.0
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: """Redeye"" Braised Lamb Shanks and Beans "
+Product Name: """Route 66"" Chili "
+Product Name: """Seder Plate"" Salad "

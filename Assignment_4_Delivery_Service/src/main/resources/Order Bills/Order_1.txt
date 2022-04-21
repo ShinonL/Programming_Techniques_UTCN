@@ -1,0 +1,8 @@
+--------------------- ORDER NUMBER 1 ---------------------
+Date: 2021-05-25T09:27:18.069478300
+Client: testc
+Total: 163.0
+
+--------------------- ORDERED PRODUCTS ---------------------
+Product Name: """Brown on Blonde"" Blondies "
+Product Name: """California Roll"" Salad "
